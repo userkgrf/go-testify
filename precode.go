@@ -1,9 +1,9 @@
 package main
 
 import (
-    "net/http"
-    "strconv"
-    "strings"
+	"net/http"
+	"strconv"
+	"strings"
 )
 
 var cafeList = map[string][]string{
